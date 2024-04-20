@@ -12,7 +12,6 @@ function App() {
     <Poster img={'http://wallpapers.gg/wp-content/uploads/2017/12/Fast-Furious-6-2013-HD-1440x960.jpg'}/>
     <WidjetMain/>
     </>
-    
   )
 }
 
